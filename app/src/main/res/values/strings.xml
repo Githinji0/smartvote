@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SmartVote</string>
+    <string name="login_icon">Login Icon</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign up</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="sign_up">sign up</string>
+    <string name="already_have_an_account_login">already have an account login</string>
+    <string name="signup_icon">signup_icon</string>
+    <string name="phone_number">phone number</string>
+    <string name="logout">Logout</string>
+    <string name="settings">Settings</string>
+    <string name="home">Example User</string>
+    <string name="btnOpenDrawer" />
+    <string name="close_drawer" />
+    <string name="menu">Menu</string>
+    <string name="landing_page">Landing Page</string>
+    <string name="open" />
+    <string name="close" />
+    <string name="charlie_davis">Charlie Davis</string>
+</resources>
