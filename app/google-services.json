@@ -1,7 +1,7 @@
 {
   "project_info": {
-    "project_number": "870222197658",
-    "project_id": "text-464ba",
+    "project_number": ,
+    "project_id":,
     "storage_bucket": "text-464ba.firebasestorage.app"
   },
   "client": [
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAXIiuu4am-ntBa3obeCan5-LRYmIN2D2I"
+          "current_key": 
         }
       ],
       "services": {
